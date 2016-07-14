@@ -26,15 +26,15 @@ You will be using / extending VisRseq for visual analysis of a movie dataset whi
 There are two categories for this assignment: (1) Data Analysis, (2) App development / improvement. You may participate in either or both categories.
 
 ### (1) Data Analysis
-You will be using VisRseq to create an [infographics](https://en.wikipedia.org/wiki/Infographic) about the movie dataset. 
+You will be using VisRseq to create an [infographic](https://en.wikipedia.org/wiki/Infographic) about the movie dataset. 
 
   * The submission will be in the form of a single page PDF document or PNG image. 
-  * All plots in the infographics should be generated within the VisRseq framework, but you may use other software (e.g. MS Word, MS Powerpoint, Photoshop, etc.) to arrange several plots and to add additional text or graphics.
+  * All plots in the infographic should be generated within the VisRseq framework, but you may use other software (e.g. MS Word, MS Powerpoint, Photoshop, etc.) to arrange several plots and to add additional text or graphics.
   * The submissions will be evaluated based on: 
     * the amount of information content
     * clarity (i.e. ease of interpretation)
     * interesting findings
-    * asthetics (i.e. artistic look)
+    * aesthetics (i.e. artistic look)
 
 ### (2) App Development / Improvement
 For this category, you can choose to develop a new R-App or modify and improve an existing R-App. This can specially be interesting for those who would like a coding challenge and/or are familiar with R.
