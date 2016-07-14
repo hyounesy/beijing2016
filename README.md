@@ -53,5 +53,4 @@ The goal is to enhance the current analytical power of VisRseq to allow getting 
 ### Submitting
 All submissions are due by Sunday, July 17th @11:59PM Beijing Time (CST). The results will be announced and discussed during the workshop session on Monday July 18th.
 
-Submission should be in the form of a git pull request of a directory with your fullname (Firstname_Lastname) containing your submissions as well as a ```readme.txt``` (or ```readme.md``` if you would like to use markdown) file, specifying the category(ies) you are submitting for and any additional information about your submission.
-
+Please refer to the [submission instructions](submissions/README.md) for details.
