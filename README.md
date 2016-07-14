@@ -35,7 +35,8 @@ You will be using VisRseq to create an [infographic](https://en.wikipedia.org/wi
     * clarity (i.e. ease of interpretation)
     * usability / interaction possibilities
     * interesting findings
-Please describe your interesting/surprising findings in words as well.
+  
+  Please describe your interesting/surprising findings in words as well.
 
 ### (2) App Development / Improvement
 For this category, you can choose to develop a new R-App or modify and improve an existing R-App. This can specially be interesting for those who would like a coding challenge and/or are familiar with R.
