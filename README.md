@@ -30,11 +30,12 @@ You will be using VisRseq to create an [infographic](https://en.wikipedia.org/wi
 
   * The submission will be in the form of a single page PDF document or PNG image. 
   * All plots in the infographic should be generated within the VisRseq framework, but you may use other software (e.g. MS Word, MS Powerpoint, Photoshop, etc.) to arrange several plots and to add additional text or graphics.
-  * The submissions will be evaluated based on: 
-    * the amount of information content
+  * The submissions will be evaluated based on:
+    * functionality / the amount of information content
     * clarity (i.e. ease of interpretation)
+    * usability / interaction possibilities
     * interesting findings
-    * aesthetics (i.e. artistic look)
+Please describe your interesting/surprising findings in words as well.
 
 ### (2) App Development / Improvement
 For this category, you can choose to develop a new R-App or modify and improve an existing R-App. This can specially be interesting for those who would like a coding challenge and/or are familiar with R.
