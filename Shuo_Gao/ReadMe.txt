@@ -1,0 +1,3 @@
+The picture "scatter-all" displays the relationship between rating and budget, and the color of points stands for number of votes. The picture "scatter-action" displays that of action movies. It can be reflected from the two charts that rating is slightly positive related to budget. Action movies are more obvious than all kinds of movies. However, number of votes are basically not related to budget. 
+
+The comparison between "Histogram-all" and "Histogram-action" shows that the qrequecy of rating can be regarded normally distributed. Movies of all kinds are more skewed to higher score than action movies. 
