@@ -4,6 +4,7 @@
 ## Software Requirements
 Download the latest version of VisRseq from [visrseq.github.io](http://visrseq.github.io). Follow the installation requirements.
 
+
 ## Quick Tutorial
   * Download the small test data from [data/mpg.txt](data/mpg.txt)
   * Run VisRseq
@@ -16,6 +17,8 @@ Download the latest version of VisRseq from [visrseq.github.io](http://visrseq.g
   
 ![](images/mpg_tableview.png)
 ![](images/mpg_scatterplot.png)
+
+#### [Presentation slides](Slides/Beijing2016_VisRseq_Slides.pdf)
 
 ## Questions and Issues
 Please use the [issue page](https://github.com/hyounesy/beijing2016/issues) to ask questions or report issues.
@@ -54,3 +57,6 @@ The goal is to enhance the current analytical power of VisRseq to allow getting 
 All submissions are due by Sunday, July 17th @11:59PM Beijing Time (CST). The results will be announced and discussed during the workshop session on Monday July 18th.
 
 Please refer to the [submission instructions](submissions/README.md) for details.
+
+### Update: Submission results
+The submission are now all merged into the [submissions](submissions/) directory. Here are the [slides](Slides/Beijing2016_Results.pdf) summarizing the results.
